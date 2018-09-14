@@ -1,6 +1,8 @@
 # demo-web
 Simple web project to serve as demo during the HackConf 2018 Git workshop
 
+File with program/instructions: https://docs.google.com/document/d/1Q3RkqyhF1U6K6W2PH6058zslxR78Qgv49rbw1iFDedY/edit#
+
 THEME: Connect - Free Bootstrap Theme
 AUTHOR: uiCookies.com
 AUTHOR URI: https://uiCookies.com/
